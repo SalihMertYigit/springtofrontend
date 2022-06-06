@@ -1,2 +1,2 @@
 # springtofrontend
- spring front ende baglama
+ spring backend to frontend
